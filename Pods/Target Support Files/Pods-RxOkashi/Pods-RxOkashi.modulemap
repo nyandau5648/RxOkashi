@@ -1,0 +1,6 @@
+framework module Pods_RxOkashi {
+  umbrella header "Pods-RxOkashi-umbrella.h"
+
+  export *
+  module * { export * }
+}
